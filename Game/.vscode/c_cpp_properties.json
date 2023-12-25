@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "MenuSystemEditor Editor Win64 Development (MenuSystem)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ashby\\gaming-self-development\\unreal-project-folders\\MPCourse\\MenuSystem\\Game\\.vscode\\compileCommands_MenuSystem.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\ashby\\gaming-self-development\\unreal-project-folders\\MPCourse\\MenuSystem\\Game\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}
